@@ -1,0 +1,1 @@
+Sistemde çalışan programları listeleme
